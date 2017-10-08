@@ -1,0 +1,53 @@
+
+
+
+
+body { font-size: 18px; color: #F52887; background-color:#FFEBCD;; 
+       
+       background-repeat:repeat; padding-left: 150px; padding-right: 150px; }
+
+#header { font-size: 36px; 
+    border-bottom: 2px solid black;}
+
+#ProfilePic { transform: rotate(4deg);
+    position: absolute;
+    right: 190px;
+    top: 20px;
+    width: 180px;
+    height: 140px;
+} 
+
+.container{
+    margin-top: 5px;
+    
+}
+.box1, .box2 {
+    float:left;
+    margin-bottom:10px;
+}
+
+.box1 {
+    clear:left;    
+    width: 80%;
+}
+
+.textHeadings {
+    font-size: 20px; font-weight: bold;
+}
+
+.leftside, .rightside {  float: left; margin-bottom:10px; }
+
+.leftside { clear:left; 
+    padding: 3px; 
+    width: 100px; 
+    height: 100px; 
+    text-align: right;  
+    border-right: 3px solid black;}
+
+.rightside {padding: 10px; height: auto; }
+
+#SocialMedia {
+    clear: both;
+    width: 20%;
+    margin: auto;
+}
